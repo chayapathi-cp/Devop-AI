@@ -9,4 +9,4 @@ def maximum(a, b):
 a = 2
 b = 4
 print(maximum(a, b))
-
+print(a)
